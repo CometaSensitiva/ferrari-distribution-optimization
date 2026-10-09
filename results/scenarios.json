@@ -1,0 +1,24 @@
+[
+  {
+    "scenario": "baseline",
+    "fna_coefficient": 0.00015,
+    "objective_eur": 5814151133.698,
+    "vehicles_by_hub": {
+      "1": 6600,
+      "2": 4270,
+      "3": 1613,
+      "4": 2500
+    }
+  },
+  {
+    "scenario": "higher_fna_transport_cost",
+    "fna_coefficient": 0.00035,
+    "objective_eur": 5803656854.698,
+    "vehicles_by_hub": {
+      "1": 6600,
+      "2": 4270,
+      "3": 1613,
+      "4": 2500
+    }
+  }
+]
