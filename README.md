@@ -1,6 +1,6 @@
 # Ferrari Distribution Network Optimization
 
-**English** · Original notebook in Spanish
+**English** · [Italiano](README.it.md)
 
 An integer-programming case study I built for **Investigación Operativa** during my Erasmus at Universidad Alfonso X el Sabio, Madrid (January 2025). It was my first project in Python: the course was largely theoretical, and the assignment was to find a real-world problem and apply the models to it. The project was graded **10/10**.
 
@@ -40,7 +40,7 @@ Regional totals come from Ferrari's [2023 Annual Report](https://www.ferrari.com
 
 ## Run it
 
-Requires Python 3.9 or later.
+Requires Python 3.9 or later. The original notebook is in Spanish.
 
 ```sh
 python3 -m venv .venv
