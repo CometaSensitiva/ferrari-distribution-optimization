@@ -60,4 +60,4 @@ A year later, in the *Laboratorio di Strumenti di Ottimizzazione* at the Univers
 - Ferrari N.V., *2023 Annual Report and Form 20-F* — [financial documents](https://www.ferrari.com/en-EN/corporate/financial-documents?year=2023)
 - José Niño Mora, *Introducción a la optimización de decisiones* (2021)
 
-Original academic work: Michele Mazza, January 2025. Ferrari names and trademarks belong to their owners.
+Original academic work: Michele Mazza, January 2025. Released under the [MIT license](LICENSE); Ferrari names and trademarks belong to their owners.
